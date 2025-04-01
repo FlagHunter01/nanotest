@@ -1,6 +1,6 @@
 ![Cover](https://media.licdn.com/dms/image/v2/D4E3DAQETYvxRihDdAw/image-scale_191_1128/image-scale_191_1128/0/1728329266654/nanoguild_cover?e=2147483647&v=beta&t=S9Y-Mlf119Gyc17ErkL2OsQPixZaHfHucT6gHnmaL1M)
 
-# Welcome to Nanoguild
+# Welcome
 
 ## About Nanoguild
 

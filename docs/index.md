@@ -6,7 +6,7 @@
 
 ![Logo](https://media.licdn.com/dms/image/v2/D4E0BAQFh4Q0uDR53mg/company-logo_200_200/company-logo_200_200/0/1728329346088/nanoguild_logo?e=2147483647&v=beta&t=2A6OvyYNLGpWfibIa1Vi1CGw9bfgbF2lTUwXT8bkYOk){ align=left }
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam placerat pharetra augue at ultricies. Duis non egestas leo. Suspendisse aliquam in arcu et bibendum. Nulla facilisi. Aenean molestie tempus nisl, sit amet ullamcorper ante convallis eget. Vivamus varius, turpis vitae consectetur molestie, nunc purus bibendum dolor, id sagittis mauris neque varius nisl. Cras vel ante nec metus consectetur laoreet a consectetur nulla. Curabitur hendrerit pulvinar magna in porttitor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed finibus, est eget malesuada pretium, velit diam congue purus, pellentesque vestibulum lectus mi vel augue.
+Lorem  dolor sit amet, consectetur adipiscing elit. Aliquam placerat pharetra augue at ultricies. Duis non egestas leo. Suspendisse aliquam in arcu et bibendum. Nulla facilisi. Aenean molestie tempus nisl, sit amet ullamcorper ante convallis eget. Vivamus varius, turpis vitae consectetur molestie, nunc purus bibendum dolor, id sagittis mauris neque varius nisl. Cras vel ante nec metus consectetur laoreet a consectetur nulla. Curabitur hendrerit pulvinar magna in porttitor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed finibus, est eget malesuada pretium, velit diam congue purus, pellentesque vestibulum lectus mi vel augue.
 
 ## Our values
 

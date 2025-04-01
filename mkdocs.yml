@@ -95,7 +95,7 @@ theme:
     ## GitHub integration
     
     # View page source
-    - content.action.view
+    - content.action.edit
 
     ## Code blocks
 
